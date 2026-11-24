@@ -6,8 +6,7 @@ Mostly: local language models with Ollama and Open WebUI, retrieval over
 private documents, and self-hosted automation with n8n. Occasionally web
 apps in React and TypeScript.
 
-Background in electrical engineering (RWTH Aachen). Based in Lisbon.
-German and English.
+Background in electrical engineering.
 
 ### Currently
 
